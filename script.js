@@ -1,5 +1,5 @@
 let countyURL = 'https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json'
-let foodAccessURL = 'https://ervinkellym.github.io/D3FoodInsecurityChoropleth/food_insecurity_counties.json'
+let foodAccessURL = 'https://ervinkellym.github.io/D3BivariateChoropleth_FoodInsecurity/food_insecurity_counties.json'
 
 let countyData
 let foodAccessData
